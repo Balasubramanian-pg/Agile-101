@@ -1,3 +1,5 @@
+![Scrumban-Process](https://github.com/user-attachments/assets/d3b08920-6ac5-4afc-aa3c-064bfeb231f2)
+
 **Scrumban** is a hybrid Agile methodology that combines elements of **Scrum** and **Kanban**. It's designed to offer a more flexible and less prescriptive approach than pure Scrum, while still retaining some of Scrum's structure and iterative nature. Scrumban is often used by teams transitioning from Scrum to Kanban, or by teams that want to incorporate flow-based practices into their existing Scrum framework to enhance responsiveness and handle variability.
 
 **Understanding the Blend: Scrum + Kanban = Scrumban**
@@ -5,6 +7,7 @@
 Scrumban essentially takes the best aspects of both Scrum and Kanban and combines them to create a hybrid approach. Let's break down what elements are typically drawn from each framework:
 
 **From Scrum, Scrumban often adopts:**
+<img width="5549" height="4123" alt="The-Basics-of-Scrum-01" src="https://github.com/user-attachments/assets/12a0ea97-aab1-480e-9917-b27b4fe63d56" />
 
 - **Roles (Optional):** While not strictly required, Scrumban teams often retain Scrum roles like Product Owner and Scrum Master (though their responsibilities may be adapted). The Development Team concept remains central.
 - **Iterations (Sprints - Optional):** Scrumban _can_ use time-boxed iterations (sprints), but it's also common to see Scrumban implementations that are more continuous flow oriented and less sprint-based. If sprints are used, they are often shorter or more flexible.
