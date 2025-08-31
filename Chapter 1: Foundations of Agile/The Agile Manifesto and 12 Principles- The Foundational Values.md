@@ -1,0 +1,34 @@
+The **Agile Manifesto**, created in 2001, is a concise statement of the values and principles that underpin Agile methodologies. It's a cornerstone of the Agile movement and provides a guiding philosophy for Agile development.
+
+**The Agile Manifesto - Values:**
+
+The manifesto emphasizes **four core values**:
+
+> We are uncovering better ways of developing software by doing it and helping others do it.  
+> Through this work we have come to value:  
+
+> Individuals and interactions over processes and tools  
+> Working software over comprehensive documentation  
+> Customer collaboration over contract negotiation  
+> Responding to change over following a plan  
+
+> That is, while there is value in the items on the right, we value the items on the left more.
+
+Let's break down each value:
+
+1. **Individuals and interactions over processes and tools:**
+    - **Focus:** Prioritizes effective communication, collaboration, and self-organization within the team.
+    - **Explanation:** While processes and tools are important, Agile emphasizes that the creativity, problem-solving ability, and communication of individuals and their interactions are more critical for success. A rigid process or a fancy tool cannot replace effective teamwork and communication.
+    - **Example:** In an Agile team, face-to-face communication, daily stand-up meetings, and open collaboration are valued more than strictly adhering to a complex, documented process or relying solely on automated tools for communication.
+2. **Working software over comprehensive documentation:**
+    - **Focus:** Delivering functional, usable software is the primary measure of progress.
+    - **Explanation:** While documentation has its place, Agile values working software that provides value to the user above extensive, potentially outdated, documentation. The emphasis is on delivering value quickly and iteratively, with documentation being just enough to support the software and its users.
+    - **Example:** Instead of spending months creating detailed requirements documents before writing any code, an Agile team would prioritize building a working prototype or a Minimum Viable Product (MVP) and then iterate based on feedback, documenting only what's necessary for understanding and maintaining the software.
+3. **Customer collaboration over contract negotiation:**
+    - **Focus:** Building strong, collaborative relationships with customers throughout the development process.
+    - **Explanation:** Agile emphasizes continuous collaboration with the customer or stakeholders to ensure the software meets their evolving needs. Instead of relying on rigid contracts and upfront requirements, Agile promotes ongoing dialogue and feedback loops to adapt to changing requirements and deliver the most valuable product.
+    - **Example:** An Agile team would involve the customer in sprint reviews, demos, and feedback sessions throughout the development process, rather than just relying on initial requirements documents and contractual agreements. This constant interaction ensures alignment and allows for course correction as needed.
+4. **Responding to change over following a plan:**
+    - **Focus:** Embracing change and adapting to evolving requirements and market conditions.
+    - **Explanation:** Agile recognizes that change is inevitable in software development. Instead of rigidly adhering to an initial plan, Agile methodologies are designed to be flexible and responsive to change. The ability to adapt and incorporate new information and feedback is a core strength of Agile.
+    - **Example:** If during a sprint, new information or changing market needs emerge, an Agile team would be prepared to adjust the sprint backlog, reprioritize tasks, and adapt the plan to accommodate these changes, rather than blindly sticking to the original plan.
