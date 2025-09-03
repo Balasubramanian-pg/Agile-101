@@ -1,4 +1,5 @@
 # The Agile Development Cycle
+![d4c435f58cab4ef796ac3641de755610](https://github.com/user-attachments/assets/28864ed4-c211-4f0f-9a15-1728a5157843)
 
 Agile development operates in cycles, with key phases repeated in each iteration. These phases are not always sequential and often overlap to maximize efficiency.
 
