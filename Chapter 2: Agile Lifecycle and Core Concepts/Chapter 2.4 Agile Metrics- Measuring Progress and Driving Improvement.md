@@ -1,8 +1,6 @@
-Of course. Here is the comprehensive guide to Agile metrics, restructured with engaging callouts to make the information clear, scannable, and actionable.
-
 # Agile Metrics for Continuous Improvement
 
-> [!INFO]
+> [!Info]
 > **What are Agile Metrics?**
 >
 > Agile metrics are quantifiable measures used to track the performance and progress of Agile teams. They provide valuable insights into team velocity, sprint progress, quality, and overall project health, enabling data-driven decisions and continuous improvement.
