@@ -1,26 +1,39 @@
-To effectively work in an Agile environment, it's important to understand the common terminology:
+# Common Agile Terminology
 
-- **Epic:**
-    - An Epic is a **large, abstract description of a desired functionality or feature**. Think of it as a high-level user story or a major project goal.
-    - Epics are intentionally broad and **lack detailed requirements**. They serve as placeholders for significant pieces of work that will be broken down further.
-    - **Example:** "As a user, I want to be able to manage my customer accounts online so that I can access my account information and perform self-service tasks."
-- **Feature (or Story):**
-    - Features (or User Stories) are **more granular and specific breakdowns of Epics**. They represent a **concrete piece of functionality** that provides value to the user.
-    - Stories are typically written from the **user's perspective** and follow a format like: "As a [user role], I want to [action] so that [benefit/reason]".
-    - Features are **estimable and can be completed within a single iteration (sprint)**.
-    - **Example (related to the Epic above):** "As a customer, I want to view my recent transaction history online so that I can track my spending."
-- **Task:**
-    - Tasks are the **smallest units of work** within the Agile hierarchy. They are **actionable steps** required to implement a Story or Feature.
-    - Tasks are typically **technical and detailed**, outlining the specific activities a developer or team member needs to perform.
-    - Tasks should be **easily assignable and trackable**.
-    - **Example (related to the Feature above):**
-        - "Create database query to fetch transaction data."
-        - "Develop API endpoint to expose transaction data."
-        - "Design and implement user interface to display transaction history."
-        - "Write unit tests for transaction history functionality."
+To work effectively in an Agile environment, it's essential to understand the common terminology used to break down work.
 
-**Hierarchy Summary:**
+> [!NOTE]
+> ### Epic
+> An Epic is a **large, abstract description of a desired functionality**. Think of it as a high-level user story or a major project goal.
+>
+> -   **Purpose:** Epics are intentionally broad and lack detailed requirements. They serve as placeholders for significant pieces of work that will be broken down later.
+> -   **Example:** "As a user, I want to manage my customer account online so I can access my information and perform self-service tasks."
 
-> [!important] Epic (Broad Goal)<br>└── Feature/Story (Specific Functionality)<br>└── Task (Actionable Step)<br>
+> [!NOTE]
+> ### Feature (or User Story)
+> A Feature or User Story is a **more specific breakdown of an Epic**. It represents a concrete piece of functionality that provides value to the user.
+>
+> -   **Format:** Stories are often written from the user's perspective: "As a [user role], I want to [action] so that [benefit]."
+> -   **Scope:** They are small enough to be estimated and completed within a single iteration (sprint).
+> -   **Example (from the Epic above):** "As a customer, I want to view my recent transaction history online so I can track my spending."
 
-This hierarchical structure helps to break down large, complex projects into manageable pieces, making planning, development, and tracking progress more efficient and transparent.
+> [!NOTE]
+> ### Task
+> A Task is the **smallest unit of work** in the Agile hierarchy. It is an actionable step required to complete a User Story.
+>
+> -   **Nature:** Tasks are typically technical and detailed, outlining the specific activities a team member needs to perform.
+> -   **Function:** They are easily assignable and trackable.
+> -   **Example (from the Story above):**
+>     -   "Create a database query to fetch transaction data."
+>     -   "Develop an API endpoint to expose the data."
+>     -   "Design the UI to display transaction history."
+>     -   "Write unit tests for the functionality."
+
+> [!IMPORTANT]
+> **The Agile Hierarchy**
+>
+> This structure helps break down large, complex projects into manageable pieces, making planning, development, and tracking progress more efficient and transparent.
+>
+> -   **Epic** (The Broad Goal)
+>     -   **Feature / Story** (A Specific Piece of Functionality)
+>         -   **Task** (An Actionable Step to Build It)
