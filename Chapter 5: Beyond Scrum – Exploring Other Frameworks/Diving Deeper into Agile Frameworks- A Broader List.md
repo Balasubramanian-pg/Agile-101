@@ -1,7 +1,3 @@
-Of course! Here is the list of Agile frameworks and methodologies formatted with GitHub Markdown callouts to enhance its structure and make it easier to read and reference.
-
-***
-
 We've already extensively discussed Scrum and Kanban. Let's expand our understanding of Agile frameworks by exploring a list of other notable methodologies and frameworks that fall under the Agile umbrella.
 
 Here's a list of Agile frameworks, categorized broadly for better understanding, though some frameworks can span categories:
