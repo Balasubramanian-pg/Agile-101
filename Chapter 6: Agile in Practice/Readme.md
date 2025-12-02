@@ -1,1 +1,10 @@
-
+### [Chapter 6: Agile in Practice](Chapter%206%20Agile%20in%20Practice)
+- [Agile Leadership- Guiding Teams and Organizations Towards Agility.md](Chapter%206%20Agile%20in%20Practice/Agile%20Leadership-%20Guiding%20Teams%20and%20Organizations%20Towards%20Agility.md)
+- [Agile Testing- Quality Integrated Throughout the Lifecycle.md](Chapter%206%20Agile%20in%20Practice/Agile%20Testing-%20Quality%20Integrated%20Throughout%20the%20Lifecycle.md)
+- [Agile Transformation- Embracing Agility at the Organizational Level.md](Chapter%206%20Agile%20in%20Practice/Agile%20Transformation-%20Embracing%20Agility%20at%20the%20Organizational%20Level.md)
+- [Agile and DevOps- A Powerful Partnership for Continuous Delivery.md](Chapter%206%20Agile%20in%20Practice/Agile%20and%20DevOps-%20A%20Powerful%20Partnership%20for%20Continuous%20Delivery.md)
+- [Agile and Remote-Distributed Teams- Thriving in a Virtual Environment.md](Chapter%206%20Agile%20in%20Practice/Agile%20and%20Remote-Distributed%20Teams-%20Thriving%20in%20a%20Virtual%20Environment.md)
+- [Overcoming Resistance to Change in Agile Adoption.md](Chapter%206%20Agile%20in%20Practice/Overcoming%20Resistance%20to%20Change%20in%20Agile%20Adoption.md)
+- [Readme.md](Chapter%206%20Agile%20in%20Practice/Readme.md)
+- [Real-World Agile Adoption Challenges and Strategies- From Theory to Practice.md](Chapter%206%20Agile%20in%20Practice/Real-World%20Agile%20Adoption%20Challenges%20and%20Strategies-%20From%20Theory%20to%20Practice.md)
+- [Scaling Agile- Agile Beyond a Single Team.md](Chapter%206%20Agile%20in%20Practice/Scaling%20Agile-%20Agile%20Beyond%20a%20Single%20Team.md)
