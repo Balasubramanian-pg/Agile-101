@@ -1,1 +1,8 @@
-
+### [Chapter 3: Scrum Framework in Depth](Chapter%203%20Scrum%20Framework%20in%20Depth)
+- [Acceptance Criteria in Agile- Defining Done and Ensuring Quality.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Acceptance%20Criteria%20in%20Agile-%20Defining%20Done%20and%20Ensuring%20Quality.md)
+- [Agile Meetings and Ceremonies- The Rhythm of Agile.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Agile%20Meetings%20and%20Ceremonies-%20The%20Rhythm%20of%20Agile.md)
+- [Definition of Done (DoD) in Agile- Ensuring Quality and Shared Understanding.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Definition%20of%20Done%20(DoD)%20in%20Agile-%20Ensuring%20Quality%20and%20Shared%20Understanding.md)
+- [Readme.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Readme.md)
+- [Scrum Roles- Defining Responsibilities in Agile Teams.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Scrum%20Roles-%20Defining%20Responsibilities%20in%20Agile%20Teams.md)
+- [Sprint Activities- The Heartbeat of Scrum.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Sprint%20Activities-%20The%20Heartbeat%20of%20Scrum.md)
+- [User Stories in Agile Development- Capturing User Needs.md](Chapter%203%20Scrum%20Framework%20in%20Depth/User%20Stories%20in%20Agile%20Development-%20Capturing%20User%20Needs.md)
