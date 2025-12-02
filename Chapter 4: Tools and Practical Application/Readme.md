@@ -1,1 +1,5 @@
-
+### [Chapter 4: Tools and Practical Application](Chapter%204%20Tools%20and%20Practical%20Application)
+- [Example Scenario- Applying Agile Concepts - Call Tracking Software Integration.md](Chapter%204%20Tools%20and%20Practical%20Application/Example%20Scenario-%20Applying%20Agile%20Concepts%20-%20Call%20Tracking%20Software%20Integration.md)
+- [Readme.md](Chapter%204%20Tools%20and%20Practical%20Application/Readme.md)
+- [User Story Mapping- Visualizing the Product Backlog and User Journey.md](Chapter%204%20Tools%20and%20Practical%20Application/User%20Story%20Mapping-%20Visualizing%20the%20Product%20Backlog%20and%20User%20Journey.md)
+- [What is Jira A Tool for Agile Project Management.md](Chapter%204%20Tools%20and%20Practical%20Application/What%20is%20Jira%20A%20Tool%20for%20Agile%20Project%20Management.md)
