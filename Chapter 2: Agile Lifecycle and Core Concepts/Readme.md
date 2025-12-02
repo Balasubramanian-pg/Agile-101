@@ -1,0 +1,6 @@
+### [Chapter 2: Agile Lifecycle and Core Concepts](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts)
+- [Chapter 2.1 The Agile Development Lifecycle- Iterative Phases.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.1%20The%20Agile%20Development%20Lifecycle-%20Iterative%20Phases.md)
+- [Chapter 2.2 Understanding Agile Terminology.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.2%20Understanding%20Agile%20Terminology.md)
+- [Chapter 2.3 Agile Planning Horizons- Strategic, Release, and Iteration Planning.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.3%20Agile%20Planning%20Horizons-%20Strategic,%20Release,%20and%20Iteration%20Planning.md)
+- [Chapter 2.4 Agile Metrics- Measuring Progress and Driving Improvement.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.4%20Agile%20Metrics-%20Measuring%20Progress%20and%20Driving%20Improvement.md)
+- [Chapter 2.5 Agile Estimation Techniques- Planning for Uncertainty.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.5%20Agile%20Estimation%20Techniques-%20Planning%20for%20Uncertainty.md)
