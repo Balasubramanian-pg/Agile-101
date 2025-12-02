@@ -1,1 +1,12 @@
-
+### [Chapter 5: Beyond Scrum – Exploring Other Frameworks](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks)
+- [Beyond Scrum- Exploring Other Agile Frameworks (Kanban in Focus).md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Beyond%20Scrum-%20Exploring%20Other%20Agile%20Frameworks%20(Kanban%20in%20Focus).md)
+- [Comparative Analysis of Agile Frameworks- Scrum, Kanban, XP, FDD, DSDM, Crystal, DA.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Comparative%20Analysis%20of%20Agile%20Frameworks-%20Scrum,%20Kanban,%20XP,%20FDD,%20DSDM,%20Crystal,%20DA.md)
+- [Deep Dive into Crystal Methods- Human-Powered and Adaptive Agile.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Crystal%20Methods-%20Human-Powered%20and%20Adaptive%20Agile.md)
+- [Deep Dive into Disciplined Agile (DA)- The Toolkit for Contextual Agility.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Disciplined%20Agile%20(DA)-%20The%20Toolkit%20for%20Contextual%20Agility.md)
+- [Deep Dive into Dynamic Systems Development Method (DSDM)- Business-Driven Agile.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Dynamic%20Systems%20Development%20Method%20(DSDM)-%20Business-Driven%20Agile.md)
+- [Deep Dive into Extreme Programming (XP)- Technical Excellence in Agile.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Extreme%20Programming%20(XP)-%20Technical%20Excellence%20in%20Agile.md)
+- [Deep Dive into Feature-Driven Development (FDD)- Feature-Centric Agile.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Feature-Driven%20Development%20(FDD)-%20Feature-Centric%20Agile.md)
+- [Deep Dive into Lean Software Development- Efficiency and Value Flow.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Lean%20Software%20Development-%20Efficiency%20and%20Value%20Flow.md)
+- [Deep Dive into Scrumban- Blending Scrum and Kanban for Flexibility.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Scrumban-%20Blending%20Scrum%20and%20Kanban%20for%20Flexibility.md)
+- [Diving Deeper into Agile Frameworks- A Broader List.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Diving%20Deeper%20into%20Agile%20Frameworks-%20A%20Broader%20List.md)
+- [Readme.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Readme.md)
