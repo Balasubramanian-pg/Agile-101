@@ -10,14 +10,14 @@ A comprehensive collection of resources covering Agile principles, frameworks, a
 - [1.4 Agile vs. Waterfall- A Direct Comparison.md](Chapter%201%20Foundations%20of%20Agile/1.4%20Agile%20vs.%20Waterfall-%20A%20Direct%20Comparison.md)
 - [Readme.md](Chapter%201%20Foundations%20of%20Agile/Readme.md)
 
-### [Chapter 2: Agile Lifecycle and Core Concepts](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts)
+### 🀄 [Chapter 2: Agile Lifecycle and Core Concepts](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts)
 - [Chapter 2.1 The Agile Development Lifecycle- Iterative Phases.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.1%20The%20Agile%20Development%20Lifecycle-%20Iterative%20Phases.md)
 - [Chapter 2.2 Understanding Agile Terminology.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.2%20Understanding%20Agile%20Terminology.md)
 - [Chapter 2.3 Agile Planning Horizons- Strategic, Release, and Iteration Planning.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.3%20Agile%20Planning%20Horizons-%20Strategic,%20Release,%20and%20Iteration%20Planning.md)
 - [Chapter 2.4 Agile Metrics- Measuring Progress and Driving Improvement.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.4%20Agile%20Metrics-%20Measuring%20Progress%20and%20Driving%20Improvement.md)
 - [Chapter 2.5 Agile Estimation Techniques- Planning for Uncertainty.md](Chapter%202%20Agile%20Lifecycle%20and%20Core%20Concepts/Chapter%202.5%20Agile%20Estimation%20Techniques-%20Planning%20for%20Uncertainty.md)
 
-### [Chapter 3: Scrum Framework in Depth](Chapter%203%20Scrum%20Framework%20in%20Depth)
+### 🀄 [Chapter 3: Scrum Framework in Depth](Chapter%203%20Scrum%20Framework%20in%20Depth)
 - [Acceptance Criteria in Agile- Defining Done and Ensuring Quality.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Acceptance%20Criteria%20in%20Agile-%20Defining%20Done%20and%20Ensuring%20Quality.md)
 - [Agile Meetings and Ceremonies- The Rhythm of Agile.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Agile%20Meetings%20and%20Ceremonies-%20The%20Rhythm%20of%20Agile.md)
 - [Definition of Done (DoD) in Agile- Ensuring Quality and Shared Understanding.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Definition%20of%20Done%20(DoD)%20in%20Agile-%20Ensuring%20Quality%20and%20Shared%20Understanding.md)
@@ -26,13 +26,13 @@ A comprehensive collection of resources covering Agile principles, frameworks, a
 - [Sprint Activities- The Heartbeat of Scrum.md](Chapter%203%20Scrum%20Framework%20in%20Depth/Sprint%20Activities-%20The%20Heartbeat%20of%20Scrum.md)
 - [User Stories in Agile Development- Capturing User Needs.md](Chapter%203%20Scrum%20Framework%20in%20Depth/User%20Stories%20in%20Agile%20Development-%20Capturing%20User%20Needs.md)
 
-### [Chapter 4: Tools and Practical Application](Chapter%204%20Tools%20and%20Practical%20Application)
+### 🀄 [Chapter 4: Tools and Practical Application](Chapter%204%20Tools%20and%20Practical%20Application)
 - [Example Scenario- Applying Agile Concepts - Call Tracking Software Integration.md](Chapter%204%20Tools%20and%20Practical%20Application/Example%20Scenario-%20Applying%20Agile%20Concepts%20-%20Call%20Tracking%20Software%20Integration.md)
 - [Readme.md](Chapter%204%20Tools%20and%20Practical%20Application/Readme.md)
 - [User Story Mapping- Visualizing the Product Backlog and User Journey.md](Chapter%204%20Tools%20and%20Practical%20Application/User%20Story%20Mapping-%20Visualizing%20the%20Product%20Backlog%20and%20User%20Journey.md)
 - [What is Jira A Tool for Agile Project Management.md](Chapter%204%20Tools%20and%20Practical%20Application/What%20is%20Jira%20A%20Tool%20for%20Agile%20Project%20Management.md)
 
-### [Chapter 5: Beyond Scrum – Exploring Other Frameworks](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks)
+### 🀄 [Chapter 5: Beyond Scrum – Exploring Other Frameworks](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks)
 - [Beyond Scrum- Exploring Other Agile Frameworks (Kanban in Focus).md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Beyond%20Scrum-%20Exploring%20Other%20Agile%20Frameworks%20(Kanban%20in%20Focus).md)
 - [Comparative Analysis of Agile Frameworks- Scrum, Kanban, XP, FDD, DSDM, Crystal, DA.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Comparative%20Analysis%20of%20Agile%20Frameworks-%20Scrum,%20Kanban,%20XP,%20FDD,%20DSDM,%20Crystal,%20DA.md)
 - [Deep Dive into Crystal Methods- Human-Powered and Adaptive Agile.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Deep%20Dive%20into%20Crystal%20Methods-%20Human-Powered%20and%20Adaptive%20Agile.md)
@@ -45,7 +45,7 @@ A comprehensive collection of resources covering Agile principles, frameworks, a
 - [Diving Deeper into Agile Frameworks- A Broader List.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Diving%20Deeper%20into%20Agile%20Frameworks-%20A%20Broader%20List.md)
 - [Readme.md](Chapter%205%20Beyond%20Scrum%20–%20Exploring%20Other%20Frameworks/Readme.md)
 
-### [Chapter 6: Agile in Practice](Chapter%206%20Agile%20in%20Practice)
+### 🀄 [Chapter 6: Agile in Practice](Chapter%206%20Agile%20in%20Practice)
 - [Agile Leadership- Guiding Teams and Organizations Towards Agility.md](Chapter%206%20Agile%20in%20Practice/Agile%20Leadership-%20Guiding%20Teams%20and%20Organizations%20Towards%20Agility.md)
 - [Agile Testing- Quality Integrated Throughout the Lifecycle.md](Chapter%206%20Agile%20in%20Practice/Agile%20Testing-%20Quality%20Integrated%20Throughout%20the%20Lifecycle.md)
 - [Agile Transformation- Embracing Agility at the Organizational Level.md](Chapter%206%20Agile%20in%20Practice/Agile%20Transformation-%20Embracing%20Agility%20at%20the%20Organizational%20Level.md)
