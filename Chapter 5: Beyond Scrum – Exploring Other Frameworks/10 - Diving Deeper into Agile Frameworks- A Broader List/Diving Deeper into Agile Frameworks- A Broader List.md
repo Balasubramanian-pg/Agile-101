@@ -31,7 +31,6 @@ Here's a list of Agile frameworks, categorized broadly for better understanding,
 >   - **Timeboxing:** Heavy use of timeboxes for all activities.
 > - **Use Cases:** Rapid application development projects, business-critical systems, and projects where time-to-market is paramount.
 
----
 ### II. Flow-Based Frameworks (Similar to Kanban in Focus on Flow)
 
 > [!NOTE]
@@ -51,7 +50,6 @@ Here's a list of Agile frameworks, categorized broadly for better understanding,
 >   - **Flexible Sprints:** Sprints may be optional or less rigid, focusing more on continuous flow.
 > - **Use Cases:** Teams transitioning from Scrum to Kanban, maintenance and support teams, and environments with frequent interruptions or changing priorities.
 
----
 ### III. Frameworks for Scaling Agile (Discussed Previously)
 
 > [!IMPORTANT]
@@ -59,7 +57,6 @@ Here's a list of Agile frameworks, categorized broadly for better understanding,
 > 2.  **Large-Scale Scrum (LeSS)**
 > 3.  **Nexus Framework**
 
----
 ### IV. Other Notable Agile-Related Approaches
 
 > [!NOTE]
@@ -81,7 +78,6 @@ Here's a list of Agile frameworks, categorized broadly for better understanding,
 >   - **Full Lifecycle Coverage:** Addresses the entire lifecycle, from inception to retirement.
 > - **Use Cases:** Organizations seeking a flexible and adaptable Agile approach that can be tailored to different project types, team contexts, and organizational needs.
 
----
 ### Choosing the Right Framework
 
 > [!IMPORTANT]
