@@ -57,7 +57,6 @@
     - **Skill Development:** Recognizes the importance of continuous learning.
     - **Collaboration:** Values effective team collaboration and communication.
 
----
 ### The Disciplined Agile Toolkit
 
 > [!NOTE]
@@ -80,7 +79,6 @@ Disciplined Agile Delivery (DAD) is the primary "process blade" within the DA to
 > - **Exploration Lifecycle:** For highly innovative or uncertain projects.
 > - **Program Lifecycle:** For large programs involving multiple teams.
 
----
 ### Benefits and Suitability
 
 > [!TIP]
