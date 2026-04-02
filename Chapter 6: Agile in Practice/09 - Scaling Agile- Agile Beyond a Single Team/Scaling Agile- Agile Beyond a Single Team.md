@@ -111,7 +111,6 @@ While Agile methodologies like Scrum are highly effective for small, co-located 
 > [!WARNING]
 > **Cons:** Not a comprehensive framework; may not be sufficient for very large or complex scenarios.
 
----
 ### Choosing a Scaling Approach
 > [!IMPORTANT]
 > The best scaling approach depends on various factors, and there is no one-size-fits-all solution. Consider:
