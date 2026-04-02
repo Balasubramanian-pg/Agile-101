@@ -88,7 +88,6 @@ The primary goal is to deliver a solution that is "fit for business purpose," me
 > - Avoid "gold-plating" or adding features that don't directly contribute to business value.
 > - **Example:** In a time-constrained project, prioritize core features and defer less critical "nice-to-have" features to a later release.
 
----
 ### DSDM Project Lifecycle
 DSDM projects typically follow a structured lifecycle consisting of several phases:
 
