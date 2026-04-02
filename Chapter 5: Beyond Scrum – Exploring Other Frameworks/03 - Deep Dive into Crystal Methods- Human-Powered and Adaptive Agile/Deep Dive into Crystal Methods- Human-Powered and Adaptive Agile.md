@@ -94,7 +94,6 @@ Crystal methods are guided by several core principles and characteristics that e
 > - Provide access to necessary resources and support for technical tasks.
 > - Optimize the technical environment to enhance team productivity and efficiency.
 
----
 ### The Crystal Family of Methodologies
 Crystal methods are categorized into different "colors," each representing a different level of project size and criticality.
 
@@ -126,7 +125,6 @@ Crystal methods are categorized into different "colors," each representing a dif
 > - **Characteristics:** Highly structured, with formal processes, extensive documentation, and rigorous quality assurance. Designed for very large, complex, and highly critical systems.
 > - **Practices Emphasis:** Includes Crystal Orange practices, plus formal processes for requirements, architecture, testing, risk management, and compliance.
 
----
 ### Choosing a Crystal Method
 > [!IMPORTANT]
 > The choice of Crystal color (and the degree of tailoring) depends on:
@@ -136,7 +134,6 @@ Crystal methods are categorized into different "colors," each representing a dif
 > - **Team Skills and Experience:** Experienced teams thrive with lighter methods; less experienced teams may need more guidance.
 > - **Organizational Culture:** The organization's culture and risk tolerance influence the level of formality required.
 
----
 ### Benefits and Challenges
 
 > [!TIP]
