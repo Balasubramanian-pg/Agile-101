@@ -1,6 +1,6 @@
 # Agile Estimation
 
-> [!INFO]
+> [!Tip]
 > **What is Agile Estimation?**
 >
 > Agile estimation is the process of forecasting the effort required to complete work. Unlike traditional methods that seek precise upfront estimates, Agile acknowledges uncertainty and focuses on **relative estimation** and **iterative refinement**. It's less about getting a perfect number and more about creating a shared understanding of the work.
