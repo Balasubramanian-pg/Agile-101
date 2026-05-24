@@ -1,6 +1,6 @@
 # Agile Planning Horizons
 
-> [!INFO]
+> [!Note]
 > **What are Planning Horizons?**
 >
 > Agile planning is not a one-time event but a continuous process that happens at different levels. **Planning Horizons** provide a framework for this by aligning the long-term product vision with the team's daily work.
