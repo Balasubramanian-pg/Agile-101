@@ -1,6 +1,6 @@
 # Acceptance Criteria: Defining "Done"
 
-> [!INFO]
+> [!Tip]
 > **What are Acceptance Criteria?**
 >
 > Acceptance Criteria (AC) are a set of predefined conditions that a User Story must meet to be considered complete. They are the "tests" a feature must pass to be accepted by the Product Owner and stakeholders.
